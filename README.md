@@ -7,6 +7,9 @@ A Next.js application demonstrating a dynamic, adaptive user interface where UI 
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-ff69b4)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8)](https://tailwindcss.com/)
 
+<img width="1902" height="860" alt="image" src="https://github.com/user-attachments/assets/855f9efa-10a6-467c-9aeb-66ad0a5e0cb7" />
+
+
 ## Table of Contents
 
 - [Concept](#concept)
