@@ -2,28 +2,7 @@
 
 A Next.js application demonstrating a dynamic, adaptive user interface where UI elements respond to user behavior over time. Motion and animation are core to the product logic, not decoration.
 
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)](https://www.typescriptlang.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-ff69b4)](https://www.framer.com/motion/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8)](https://tailwindcss.com/)
-
 <img width="1902" height="860" alt="image" src="https://github.com/user-attachments/assets/855f9efa-10a6-467c-9aeb-66ad0a5e0cb7" />
-
-
-## Table of Contents
-
-- [Concept](#concept)
-- [System Design](#system-design)
-  - [Architecture Overview](#architecture-overview)
-  - [Data Flow](#data-flow)
-  - [Component Architecture](#component-architecture)
-  - [State Management](#state-management)
-  - [Animation System](#animation-system)
-- [Interaction Rules](#interaction-rules)
-- [Motion Strategy](#motion-strategy)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Evaluation Criteria](#evaluation-criteria-coverage)
 
 ## Concept
 
